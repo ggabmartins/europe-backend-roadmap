@@ -1,4 +1,4 @@
-# Europe Backend Roadmap Phase 1 🌍
+# Europe Backend Roadmap - Phase 1 🌍
 
 This repository documents my journey as a backend developer, preparing to apply for junior positions in Europe (Germany/Ireland) by the end of 2026.
 
@@ -20,4 +20,4 @@ This repository documents my journey as a backend developer, preparing to apply 
 - `mini-projetos/` → real Java projects (CRUD, APIs, JDBC)
 - `links-e-referencias/` → YouTube/Alura content followed
 
-## 📌 Goal: Be job-ready for Europe 🇪🇺 as a Java Backend Developer by end of 2025.
+## 📌 Goal: Be job-ready for Europe 🇪🇺 as a Java Backend Developer by end of 2026.
