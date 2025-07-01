@@ -1,0 +1,1 @@
+ALTER TABLE rents RENAME TO reservations;
