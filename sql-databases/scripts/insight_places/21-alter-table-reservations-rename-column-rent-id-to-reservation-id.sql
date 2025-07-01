@@ -1,0 +1,1 @@
+ALTER TABLE reservations RENAME COLUMN rent_id TO reservation_id;
